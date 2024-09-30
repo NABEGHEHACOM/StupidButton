@@ -8,11 +8,11 @@
 
 <p align="center">
     <br>
-    <a href="https://nabegheha.com/contact-us">Social Media</a>
+    <a href="https://nabegheha.com">Social Media</a>
     ·
     <a href="https://nabegheha.com">Learn Flutter</a>
     ·
     <a href="https://www.youtube.com/c/nabegheha">YouTube Channel</a>
     ·
-    <a href="https://nabegheha.com/blog">Blog</a>
+    <a href="https://nabegheha.com">Blog</a>
 </p>
